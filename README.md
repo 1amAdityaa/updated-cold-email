@@ -2,7 +2,7 @@
 
 Turn job descriptions into personalized cold emails — powered by **LLaMA-3** (via Together AI), **Streamlit**, **LangChain**, and **ChromaDB**.
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Cold+Email+Generator+UI)
+![App Screenshot](https://github.com/1amAdityaa/updated-cold-email/blob/main/coldemail.png)
 
 ---
 
